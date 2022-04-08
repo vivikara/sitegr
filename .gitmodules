@@ -1,3 +1,4 @@
 [submodule "all_collections"]
 	path = all_collections
 	url = https://github.com/vivikara/all_collections.git
+	branch = p2017200
